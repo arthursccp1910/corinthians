@@ -10,8 +10,9 @@
   background: rgba(208, 208, 208, 0.15);
 }
 
-.ace_editor {
-        background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netshoes.com.br%2Fblog%2Ffutebol%2Fpost%2F5-fatos-curiosos-sobre-o-corinthians&psig=AOvVaw3IJPUib16x4gzKiMWM1tX3&ust=1711537795032000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC_66jlkYUDFQAAAAAdAAAAABAE,  background-size: 1256px 500px;
+.ace_editor {    
+background: url(https://github.com/arthursccp1910/corinthians/blob/main/corinthiansfundooo.jpg);
+    background-size: 900px 400px;
 }
 
 .rstudio-themes-flat.ace_editor_theme {
